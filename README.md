@@ -5,4 +5,4 @@ uses a based mechanic that downloads an annoying version with speed limiter to b
 - please use this responsibly
 - use a shortcut to pin to taskbar or other
 `cmd.exe /C "place"`
-^^^ use this for shortcut ^^^
+\^^^ use this for shortcut ^^^
